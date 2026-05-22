@@ -29,3 +29,21 @@ Product Security Architect | Threat Researcher | AI Enthusiast ☕️
 ### Platform Security
 
 [copy.fail: From kernel CVE to Kubernetes Container Escape](https://obormot.github.io/posts/copy-fail-kubernetes-escape/)
+
+---
+
+## Open Source
+
+### dpkt (Python Network Packet Library)
+Active maintainer and major contributor of [dpkt](https://github.com/kbandla/dpkt) 
+
+[Key concepts of creating protocol parsers in dpkt](https://github.com/kbandla/dpkt/blob/master/docs/creating_parsers.md)
+
+---
+
+## Patents
+
+Attack detection and prevention using global device fingerprinting - [US9106693B2](https://patents.google.com/patent/US9106693B2/)
+
+System and method for detecting network intrusions using layered host scoring - [US20150264061A1](https://patents.google.com/patent/US20150264061A1/en)
+
