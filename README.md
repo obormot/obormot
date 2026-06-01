@@ -14,9 +14,13 @@ Product Security Architect | Threat Researcher | AI Enthusiast ☕️
 
 [KV Cache Flood: DoS Against Multi-Tenant LLMs](https://obormot.github.io/posts/kv-cache-flood-dos/)
 
+[Honeypots for AI Agents](https://obormot.github.io/posts/ai-agent-honeypots/)
+
+### Agentic AI
+
 [TrustFall: The Perimeter Problem in Agentic Tools](https://obormot.github.io/posts/perimeter-problem-in-agentic-tools/)
 
-[Honeypots for AI Agents](https://obormot.github.io/posts/ai-agent-honeypots/)
+[Hidden Gaps in Claude Code Security Reviews](https://brainoverflow.blog/posts/claude-code-security-review-bias/)
 
 ### Product Security 
 
@@ -26,7 +30,7 @@ Product Security Architect | Threat Researcher | AI Enthusiast ☕️
 
 [AI-Native Threat Modeling](https://obormot.github.io/posts/ai-native-threat-modeling/)
 
-### Platform Security
+### OS/Platform Security
 
 [copy.fail: From kernel CVE to Kubernetes Container Escape](https://obormot.github.io/posts/copy-fail-kubernetes-escape/)
 
